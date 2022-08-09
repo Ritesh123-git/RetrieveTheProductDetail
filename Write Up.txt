@@ -1,0 +1,8 @@
+In this particular project, I was expected to create a servlet-based application that shows a form to enter a product ID. And for that I have created an index.html file
+and ProductCheckUpController.java servlet file.
+
+In index.html file I have created a simple index.html file where I have created a simple form which will take a productId as input and also in the action I have mentioned
+where it has to go, it has to go to the ProductCheckUpController.
+
+In the ProductCheckUpController servlet file I will receive the input which was sent and there I will validate whether it will retrieve the data or not.
+And for that I have established the connection also. And then I tried to retrieve the data from the database whose name was training.
